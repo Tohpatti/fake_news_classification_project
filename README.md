@@ -1,2 +1,1 @@
-# fake_news_classification_project
- 
+This project is the result of the final assignment of my thesis research regarding the classification of fake news in Indonesian using deep learning algorithms such as CNN and LSTM combined with the IndoBERT model as a new embedding layer through transfer learning techniques.
